@@ -493,6 +493,13 @@ ninja.data = [{
           window.open("mailto:%61%6E%6A%61%6E%72%65%64%64%79%38%36%38%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/anjankumarayyadapu", "_blank");
+        },
+      },{
         id: 'social-ieee',
         title: 'IEEE Xplore',
         section: 'Socials',
@@ -512,6 +519,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0008-0907-6382", "_blank");
+        },
+      },{
+        id: 'social-publons',
+        title: 'Publons',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://publons.com/a/KYP-7005-2024/", "_blank");
         },
       },{
         id: 'social-researchgate',
