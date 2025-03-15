@@ -500,13 +500,6 @@ ninja.data = [{
           window.open("https://ieeexplore.ieee.org/author/855986007189918/", "_blank");
         },
       },{
-        id: 'social-kaggle',
-        title: 'Kaggle',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.kaggle.com/anjankumarayyadapu", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -525,7 +518,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Anjan-Kumar-Ayyadapu/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -539,7 +532,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=zz_hiRsAAAAJ", "_blank");
         },
       },{
         id: 'social-scopus',
