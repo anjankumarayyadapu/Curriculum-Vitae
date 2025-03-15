@@ -49,7 +49,7 @@
     {
       "institution": "University of South Alabama",
       "location": "Mobile, Alabama",
-      "url": "https://www.southalabama.edu/,
+      "url": "https://www.southalabama.edu/",
       "area": "Graduate Assistant",
       "studyType": "MS",
       "startDate": "2014-01-07",
@@ -69,17 +69,17 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Certified Solutions Architect – Professional",
+      "date": "2024-05-03",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/5ee666b1-cceb-4971-9c0c-d43a14af189d",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Certified Machine Learning – Specialty",
+      "date": "2024-03-20",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/0e237ab0-6dd3-4721-98a2-50dc946fd9f8",
       "icon": "fa-solid fa-tag"
     },
     {
@@ -113,17 +113,17 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "name": "An Application of NB-GA Model: A Study of Logistics Performance and Economic Attributes",
+      "publisher": "2024 International Conference on Intelligent Algorithms for Computational Intelligence Systems (IACIS)",
+      "releaseDate": "2024-10-24",
+      "url": "https://ieeexplore.ieee.org/document/10721688",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "name": "Collaborative Recommender Systems for Building Automation: A Hybrid ANN-FOA Approach",
+      "publisher": "2024 International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)",
+      "releaseDate": "2024-07-23",
+      "url": "https://ieeexplore.ieee.org/document/10593841",
       "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
     },
     {
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Telugu",
       "fluency": "Native speaker",
       "icon": ""
     },
