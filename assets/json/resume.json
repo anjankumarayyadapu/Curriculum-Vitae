@@ -35,6 +35,36 @@
   ],
   "volunteer": [
     {
+      "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "location": "Northern Virignia Section",
+      "position": "Senior Member/Author/Reviwer",
+      "url": "https://ieeexplore.ieee.org/author/855986007189918",
+      "startDate": "2024-04-06",
+      "endDate": "Until",
+      "summary": "Anjan Kumar Reddy Ayyadapu is a Senior Member, Author, and Reviewer for IEEE, contributing to the advancement of technology through research publications, peer reviews, and thought leadership. With extensive expertise in AI/ML, Big Data, Cyber Security, and Cloud Computing, he plays a pivotal role in evaluating and shaping high-impact research. His involvement includes reviewing scholarly articles, mentoring researchers, and authoring technical papers on emerging technologies. Through his IEEE contributions, he actively supports innovation and knowledge dissemination in the global technology community.",
+      "highlights": ["Authored two IEEE conference papers and peer-reviewed four research articles for prestigious IEEE conferences, including the 5th International Conference on Electrical, Computer, and Energy Technologies (ICECET 2025) and the IEEE International Conference on AI and Data Analytics (ICAD 2025)."]
+    },
+     {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    },
+     {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    },
+     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
